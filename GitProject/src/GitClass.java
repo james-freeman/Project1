@@ -3,7 +3,7 @@ public class GitClass {
 	
 	public static void main (String args[]){
 		//New comment
-		//this is for commit and push
+		//this is for commit and push new
 	}
 
 }
